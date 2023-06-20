@@ -1,6 +1,8 @@
 ### Hi there 👋
  🔭 I’m currently working on .NET/SQL...
+ 
  🌱 I’m currently learning React JS ...
+ 
 👯 I’m looking to collaborate on .NET/SQL..
 <!--
 **Mdnhd/mdnhd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
